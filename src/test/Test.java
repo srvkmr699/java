@@ -8,4 +8,8 @@ public class Test {
 	public void display() {
 		System.out.println("this is dummy method");
 	}
+	
+	public int sum(){
+		return 10*10;
+	}
 }
